@@ -69,7 +69,7 @@ sections:
             style: secondary
       - type: feature
         template: feature
-        title: Supply chain & sourcing
+        title: Cold storage
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
