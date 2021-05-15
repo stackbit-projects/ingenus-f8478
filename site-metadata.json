@@ -9,7 +9,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Features",
+                "label": "Portfolio",
                 "url": "/features",
                 "style": "link"
             },
