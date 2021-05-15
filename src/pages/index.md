@@ -69,7 +69,7 @@ sections:
             style: secondary
       - type: feature
         template: feature
-        title: Feature 3
+        title: Supply chain & sourcing
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
