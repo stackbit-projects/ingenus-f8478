@@ -31,7 +31,7 @@ sections:
       background_image_repeat: repeat
   - type: features_section
     template: features_section
-    title: Features
+    title: Capabalities
     features:
       - type: feature
         template: feature
