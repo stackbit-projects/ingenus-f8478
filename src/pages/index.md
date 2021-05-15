@@ -58,7 +58,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: /images/wonderlane-BqPB1vdg3zw-unsplash.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
@@ -75,7 +75,7 @@ sections:
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
         align: left
-        image: images/feature.svg
+        image: /images/timelab-pro-CfKV0CecnU8-unsplash.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
